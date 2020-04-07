@@ -1,8 +1,6 @@
 # Newton Next for VS Code
 
-https://bertolinimarco.github.io/vscode-theme-newton-next/
-
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/devberto.theme-newton-next.svg)]()
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/devberto.theme-newton-next.svg)](null)
 
 ## Why
 

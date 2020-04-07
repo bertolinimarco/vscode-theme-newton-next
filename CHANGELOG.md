@@ -1,8 +1,9 @@
 # Change Log
 
-All notable changes to the "vscode-theme-newton-next" extension will be documented in this file.
+## [3.0.1]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Updated GIT colors, line numbers, color consistency among functions, suggestion box, widget shadow
+- Updated README.md
 
 ## [3.0.0]
 
