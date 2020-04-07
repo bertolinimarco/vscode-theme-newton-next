@@ -12,7 +12,7 @@ So, Newton.
 
 Now in an updated version.
 
-![Screenshot](https://raw.githubusercontent.com/bertolinimarco/vscode-theme-newton-next/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/bertolinimarco/vscode-theme-newton-next/master/screenshot.png)
 
 ## How
 
