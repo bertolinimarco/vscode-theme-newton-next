@@ -1,0 +1,28 @@
+{
+  "name": "theme-newton-next",
+  "displayName": "Newton Next (Official)",
+  "description": "The next version of the low eyestrain syntax theme. Again, apple not included.",
+  "version": "3.0.0",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "publisher": "devberto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bertolinimarco/vscode-theme-newton-next"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon-newton-next.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Newton Next (Official)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/newton-next-color-theme.json"
+      }
+    ]
+  }
+}
