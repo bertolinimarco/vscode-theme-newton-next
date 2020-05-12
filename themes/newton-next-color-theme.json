@@ -58,9 +58,9 @@
 
     // Scrollbar
     "scrollbar.shadow": "#29292b",
-    "scrollbarSlider.background": "#2a2b2f",
-    "scrollbarSlider.hoverBackground": "#2a2b2f",
-    "scrollbarSlider.activeBackground": "#2a2b2f",
+    "scrollbarSlider.background": "#1a1a1a",
+    "scrollbarSlider.hoverBackground": "#666",
+    "scrollbarSlider.activeBackground": "#666",
 
     // Badge
     "badge.background": "#d04949",
@@ -127,8 +127,8 @@
     "editorLink.activeForeground": "#daae50",
     "editor.rangeHighlightBackground": "#2a2a2a",
     "editorWhitespace.foreground": "#707a8c66",
-    "editorIndentGuide.background": "#707a8c4d",
-    "editorIndentGuide.activeBackground": "#707a8cb3",
+    "editorIndentGuide.background": "#2a2a2a",
+    "editorIndentGuide.activeBackground": "#666",
     "editorRuler.foreground": "#707a8c4d",
     "editorCodeLens.foreground": "#697c89",
     "editorBracketMatch.background": "#707a8c4d",
@@ -642,8 +642,15 @@
       "name": "CSS - URLs",
       "scope": "meta.function.url.css",
       "settings": {
-        "foreground": "#69c",
-        "fontStyle": "underline"
+        "foreground": "#69c"
+      }
+    },
+    {
+      "name": "CSS - URLs - Punctuation",
+      "scope": "punctuation.section.function.begin.bracket.round.css, punctuation.section.function.end.bracket.round.css",
+      "settings": {
+        "foreground": "#66CCCC",
+        "fontStyle": ""
       }
     },
     {
