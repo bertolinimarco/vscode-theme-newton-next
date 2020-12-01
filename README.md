@@ -20,6 +20,6 @@ Now in an updated version.
 
 3. Install + Reload VSC
 
-4. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>` > Theme > Newton Next
+4. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> > Theme > Newton Next
 
 5. Enjoy!
