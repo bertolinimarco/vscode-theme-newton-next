@@ -2,7 +2,7 @@
   "name": "theme-newton-next",
   "displayName": "Newton Next (Official)",
   "description": "The next version of the low eyestrain syntax theme. Again, apple not included.",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "engines": {
     "vscode": "^1.43.0"
   },
