@@ -26,6 +26,7 @@
     "textLink.foreground": "#EBBD5B",
     "textLink.activeForeground": "#EBBD5B",
     "textPreformat.foreground": "#d3d4d5",
+    "editorGroupHeader.border": "#2a2a2a",
 
     // Welcome Page
     "welcomePage.background": "#1a1a1a",
@@ -591,8 +592,16 @@
       }
     },
 
-    // HTML
+    // Markdown
+    {
+      "name": "Markdown - Paragraph",
+      "scope": "meta.paragraph.markdown",
+      "settings": {
+        "foreground": "#CBCCC6"
+      }
+    },
 
+    // HTML
     {
       "name": "HTML - Attributes",
       "scope": "meta.attribute.style.html, meta.attribute.charset.html",
@@ -627,6 +636,13 @@
       "scope": "constant.language.import-export-all.js",
       "settings": {
         "foreground": "#66cccc"
+      }
+    },
+    {
+      "name": "JS - Property",
+      "scope": "meta.objectliteral.js",
+      "settings": {
+        "foreground": "#CBCCC6"
       }
     },
 
@@ -781,6 +797,15 @@
     {
       "name": "JSON - String (Quoted)",
       "scope": "string.quoted.double.json, string.quoted.double.json.comments",
+      "settings": {
+        "foreground": "#9c9"
+      }
+    },
+
+    // Vue
+    {
+      "name": "Vue - Directive (Punctuation)",
+      "scope": "meta.directive.vue",
       "settings": {
         "foreground": "#9c9"
       }
