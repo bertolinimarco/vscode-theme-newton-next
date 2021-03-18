@@ -2,6 +2,8 @@
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/devberto.theme-newton-next.svg)](null)
 
+Also available on [OpenVSX](https://open-vsx.org/extension/devberto/theme-newton-next)
+
 ## Why
 
 Most of the standard IDE/Editors themes are not easy on my eye, or they're too distracting, semantic, etc.
