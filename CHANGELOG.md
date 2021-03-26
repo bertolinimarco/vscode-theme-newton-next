@@ -1,5 +1,16 @@
 # Change Log
 
+## [3.0.5]
+
+- Added colors for vscode updates so far (button secondary, input active, breadcrumbs menu background, border between editors, etc...)
+- Revamped highlight (ctrl + f) readabilty
+- Optimized notification colors (toast, icons, messages)
+- Improved `editorWhitespace.foreground`
+
+## [3.0.4]
+
+- Improved color readability
+
 ## [3.0.3]
 
 - Editor: Indent guides now are more bright
